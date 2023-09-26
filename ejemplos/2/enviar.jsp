@@ -13,7 +13,7 @@
 <a href="JSP/muestra.jsp?parametro=valor">Link</a>
 
 <!-- O mediante un formulario -->
-<form action="JSP/muestra.jsp" method="get">
+<form action="muestra.jsp" method="get">
     <input type="text" name="parametro" value="valor"/>
     <input type="submit" value="Enviar"/>
 </form>
